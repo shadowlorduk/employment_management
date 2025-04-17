@@ -35,9 +35,6 @@ python employment_management.py or replace with python3 if it does not execute.
 
 Outline the main components and their interactions. The flow diagram will include the following key elements:
 
-![employment management logo for a Python program](https://github.com/user-attachments/assets/1a4c84c7-6cc6-4b22-bcb7-a4263501649f)
-
-
 Explanation:
 1. **Initialisation**:
    - Import necessary modules, configure logging, and load environment variables.
